@@ -2,8 +2,8 @@
   "private": true,
   "dependencies": {
     "express": "^4.13.4",
-    "mocha": "^2.4.5",
-    "parse-server": "2.2.17"
+    "mocha": "^4.0.0",
+    "parse-server": "2.6.4"
   },
   "scripts": {
     "test": "mocha --reporter dot -t 5000"
